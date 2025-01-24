@@ -1,5 +1,5 @@
-# Machine Learning
-Machine Learning @ UTA spring 2025
+# Machine Learning @ UTA
+DATA 3461 - Dr. Jawad. Spring 2025
 
 ---
 

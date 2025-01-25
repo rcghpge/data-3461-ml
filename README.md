@@ -6,7 +6,7 @@ Machine Learning @ UTA. Dr. Jawad. Spring 2025
 Labs section of the course.
 
 ## Development Environment Setup
-To run an initial Python development environment there are several methods via Jupyter notebooks, VS Code, PyCharm, Spyder, the Anaconda distribution, or on the command line in Bash. For beginner-friendly Jupyter Notebooks or Anaconda is recommended for its ease of use and pre-installed libraries.
+To run an initial Python development environment there are several methods via Jupyter notebooks, VS Code, PyCharm, Spyder, the Anaconda distribution, or on the command line in Bash. For beginner-friendly Jupyter Notebooks or Anaconda is recommended for a seamless development and workflow environment.
 
 ---
 ## Python Development Workflow in Bash

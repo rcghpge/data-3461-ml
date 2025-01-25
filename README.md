@@ -55,6 +55,7 @@ Anaconda is a comprehensive distribution for Python and R, designed for data sci
 
 ### Create an Environment in Anaconda:
 ```bash
+# Create interactive environment
 conda create -n ml-env python=3.9
 
 # Activate the environment

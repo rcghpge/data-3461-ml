@@ -48,7 +48,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 
 ---
 ## Anaconda Development Workflow Setup
-Anaconda is a comprehensive distribution for Python and R, designed for data science and machine learning. It includes Spyder, Jupyter, and pre-installed libraries.
+Anaconda is a distribution stack for Python and R, designed for data science and machine learning. It includes Spyder, Jupyter, and pre-installed libraries.
 
 1.  Download and install Anaconda from [Anaconda Downloads](https://www.anaconda.com/download)
 2.	Launch the Anaconda Navigator GUI for managing environments and tools.

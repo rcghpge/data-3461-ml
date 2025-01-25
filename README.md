@@ -16,7 +16,7 @@ If not using Anaconda, install Python directly in Bash:
 # Install Python
 sudo apt install python3
 
-#Install pip package manager
+# Install pip package manager
 sudo apt install python3-pip
 ```
 

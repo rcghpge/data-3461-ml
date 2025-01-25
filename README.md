@@ -9,6 +9,9 @@ Labs section of the course.
 To run an initial Python development environment there are several methods via Jupyter notebooks, VS Code, PyCharm, Spyder, the Anaconda distribution, or on the command line in Bash. For beginner-friendly, Jupyter Notebooks or Anaconda is recommended for a seamless development and workflow environment.
 
 ---
+## Getting Started
+To get started see Github documentation to install this repository into your local machine: [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?platform=linux&tool=webui)
+
 ## Python Development Workflow in Bash
 ### Install Python
 If not using Anaconda, install Python directly in Bash:

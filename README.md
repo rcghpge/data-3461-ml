@@ -11,7 +11,7 @@ To run an initial Python environment there are several methods via Jupyter noteb
 ---
 ## Python Development Workflow in Bash
 ### Install Python
-If not using Anaconda, install Python directly:
+If not using Anaconda, install Python directly in Bash:
 ```bash
 # Install Python
 sudo apt install python3

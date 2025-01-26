@@ -1,4 +1,4 @@
-# Machine Learning @ UTA
+# Machine Learning in Python @ UTA
 Machine Learning in Python @ UTA. Dr. Jawad. Spring 2025
 
 ---

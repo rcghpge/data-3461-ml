@@ -1,5 +1,5 @@
 # Machine Learning @ UTA
-Machine Learning @ UTA. Dr. Jawad. Spring 2025
+Machine Learning in Python @ UTA. Dr. Jawad. Spring 2025
 
 ---
 ## Lab

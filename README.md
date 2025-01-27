@@ -14,7 +14,7 @@ To get started see Github documentation to install this repository into your loc
 
 ## Python Development Workflow in Bash
 ### Install Python
-If not using Anaconda, install Python directly in Bash:
+If not using Anaconda or other workflow development environments, install Python directly in Bash:
 ```bash
 # Install Python
 sudo apt install python3

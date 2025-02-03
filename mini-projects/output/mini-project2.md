@@ -10,7 +10,7 @@ def temp_convert(celsius):
 
 # Run code
 ```python
-if **name** == "**main**": 
+if __name__ == "__main__": 
     # Task 1: Convert tempatures 
     celsius_temp = float(input("Enter the temperature in Celsius:")) 
     fahrenheit_temp = temp_convert(celsius_temp) 

@@ -24,9 +24,7 @@ if **name** == "**main**":
     print(f"Light takes approximately {time:.2f} seconds to travel from the Sun to Earth.")
 ```
 # References:
-""" 
 - Google: Google.com 
 - OpenAI: ChatGPT 
 - Course material 
 - Lecture & Lab notes 
-"""

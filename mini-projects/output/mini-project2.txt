@@ -1,4 +1,4 @@
-# Assignment #1 - Temperature, Speed, and Distance
+# Mini-Project #2 - Temperature, Speed, and Distance
 
 
 # Function - convert Celsius to Fahrenheit
@@ -26,4 +26,6 @@ if __name__ == "__main__":
 """
 - Google: Google.com
 - OpenAI: ChatGPT
+- Course material
+- Lecture & Lab notes
 """

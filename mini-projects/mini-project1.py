@@ -1,6 +1,6 @@
-# Undergradute Classification Mini-Project #1
+# Mini-Project #1 - Undergraduate Classification
 
-# Example
+# Script:
 college_year = 3
 
 if (college_year == 1):

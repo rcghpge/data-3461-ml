@@ -19,13 +19,13 @@ mean = np.mean(data1)
 print("Mean:{0:8.4f}".format(mean))
 
 variance = np.var(data1)
-print("Variance: {0:8.4f}".format(variance))
+print("Variance:{0:8.4f}".format(variance))
 
 standarddev = np.std(data1)
-print("STD: {0:8.4f}".format(standarddev))
+print("STD:{0:8.4f}".format(standarddev))
 
 median = np.median(data1)
-print("Median: {0:8.4f}".format(median))
+print("Median:{0:8.4f}".format(median))
 
 # Data visualizations
 hist1, edges1 = np.histogram(data1)

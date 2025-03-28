@@ -74,6 +74,7 @@ conda install numpy pandas scikit-learn matplotlib seaborn jupyter
 ```bash
 jupyter notebook
 ```
+See Resources and Documentation section below if installation is required.
 
 ---
 ## Resources and Documentation

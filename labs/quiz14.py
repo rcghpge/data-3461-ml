@@ -92,4 +92,6 @@ Input: [0 0] -> prediction: 0
 Input: [0 1] -> prediction: 0
 Input: [1 0] -> prediction: 0
 Input: [1 1] -> prediction: 1
+
+File naming conventions were renamed during submission. This is a quiz and not a mini-project. 
 """
